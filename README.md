@@ -79,7 +79,7 @@ stopAll();
 
 ### Example
 
-Here's a complete example demonstrating how to use the Microtask Scheduler:
+Here's a complete example demonstrating how to use the Micro task Scheduler:
 
 ```bash
 import { addTask, removeTask, startTask, stopTask, startAll, stopAll } from 'micro-task-scheduler';
