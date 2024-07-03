@@ -1,0 +1,14 @@
+{
+  "name": "micro-task-scheduler",
+  "version": "1.0.0",
+  "description": "micro task scheduler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^3.1.7"
+  }
+}
