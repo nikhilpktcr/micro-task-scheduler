@@ -6,9 +6,26 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Nikhil Plavalappil Kuttan",
   "license": "ISC",
   "dependencies": {
     "cron": "^3.1.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilpktcr/micro-task-scheduler.git"
+  },
+  "keywords": [
+    "task",
+    "Management",
+    "cron",
+    "scheduler",
+    "background",
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/nikhilpktcr/micro-task-scheduler/issues"
+  },
+  "homepage": "https://github.com/nikhilpktcr/micro-task-scheduler#readme"
 }
