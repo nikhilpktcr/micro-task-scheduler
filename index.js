@@ -21,7 +21,7 @@ export const removeTask = (name) => {
   }
 };
 
-export const startTask = () => {
+export const startTask = (name) => {
   const task = tasks.get(name);
   if (!task) {
     throw new Error("no task found");
